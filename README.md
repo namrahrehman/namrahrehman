@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Analysis and Image Processing**
 
-- 💬 Ask me about **From research to real-world projects, I'm passionate about helping you unlock the potential of cutting-edge medical AI models. Bring me your toughest questions about optimization or clinical integration.**
+- 💬 Ask me about **From research to real-world projects, bring me your toughest questions about model optimization or clinical integration.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
