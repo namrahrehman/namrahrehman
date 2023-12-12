@@ -1,4 +1,4 @@
-![Firefly A single medical image with a subtle AI overlay, conveying sophistication and precision  291 (1)](https://github.com/namrahrehman/namrahrehman/assets/93483806/b8f0503a-2dcf-47cb-ad38-ba8c5c284016)
+
 
 <h1 align="center">Hi 👋, I'm Namrah</h1>
 <h3 align="center">Passionate researcher exploring the intersection of AI and medical imaging. Driven by the potential to improve healthcare through intelligent image analysis and diagnosis. Utilizing cutting-edge AI techniques to tackle challenges in medical imaging. Open to collaboration and pushing the boundaries of medical technology.</h3>
