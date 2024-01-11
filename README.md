@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Namrah</h1>
 <h5 align="center"><i>Passionate researcher exploring the intersection of AI and medical imaging. Driven by the potential to improve healthcare through intelligent image analysis and diagnosis. Utilizing cutting-edge AI techniques to tackle challenges in medical imaging. Open to collaboration and pushing the boundaries of medical technology.</h5><br>
 
